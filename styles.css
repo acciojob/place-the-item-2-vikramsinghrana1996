@@ -8,3 +8,10 @@
 	gap:5px;
 	
 }
+
+.item{
+	background-color:blue;
+	flex:1 1 auto;
+	text-align:center;
+	padding:20px;
+}
